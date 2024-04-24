@@ -5,3 +5,4 @@
 ![system diagram 3355mterm](https://github.com/gunesgultekin/SE3355-FlaskAPI/assets/126399958/1e2bec8e-07a2-4d63-a37f-8bc528c963ea)
 
 ## Data Model
+![midtermDataModel](https://github.com/gunesgultekin/SE3355-FlaskAPI/assets/126399958/f3d21cb6-a511-4ae9-a7ca-ed85348f53bc)
